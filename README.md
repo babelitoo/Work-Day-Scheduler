@@ -6,3 +6,4 @@ The hour blocks will turn gray when that time has passed. The current hour block
 Live URL :
 
 Screenshot of Application
+![Image of Application](https://github.com/babelitoo/Work-Day-Scheduler/blob/main/images/day%20schedule.png)
